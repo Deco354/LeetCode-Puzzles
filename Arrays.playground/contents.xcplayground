@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='2D Array Hour Glass'/>
+        <page name='Minimum Bribes'/>
+        <page name='Left Rotation'/>
+        <page name='Minimum Swaps'/>
+    </pages>
+</playground>
